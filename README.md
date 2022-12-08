@@ -1,2 +1,2 @@
 # KompArch
-Kompiuterių architektūros užduotys
+Assembly code
