@@ -1,0 +1,2 @@
+# KompArch
+Kompiuterių architektūros užduotys
